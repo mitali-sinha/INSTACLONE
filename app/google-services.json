@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862883336941",
+    "project_id": "cloneapp-b0024",
+    "storage_bucket": "cloneapp-b0024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862883336941:android:7214be853fb1d522fc32e4",
+        "android_client_info": {
+          "package_name": "com.example.cloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6rSRD3_UEtnXkZ-6qhCdRaLmJ5cQxSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
